@@ -78,7 +78,8 @@ Median income and rent cannot reflect the situation of low-income people.
 
 <b> Further work </b>
 
-To analyze different model types, and check model accuracy.
+* Analyzing different model types.
+* Checking model accuracy.
 
 
 ## Contributors
