@@ -19,11 +19,11 @@ This project explores Proposition 21 - Rental Affordability Act, and in particul
 * <b> Inflation Rate: </b> https://www.usinflationcalculator.com/inflation/current-inflation-rates/
 
 ## Directory
-1. [raw data](https://github.com/FengYinan/Prop21-Team/tree/master/raw%20data) - Raw data as downloaded from the American Community Survey. Please see txt files in folder for further details.
-2. [clean data](https://github.com/FengYinan/Prop21-Team/tree/master/clean%20data) - Clean data.
-3. [code](https://github.com/FengYinan/Prop21-Team/tree/master/code) - All code files, both for visualizing and modeling.
-4. [image](https://github.com/FengYinan/Prop21-Team/tree/master/image) - Output image files.
-5. [docs](https://github.com/FengYinan/Prop21-Team/tree/master/docs) - Output web files.
+1. [raw data](https://github.com/KoralleB/CAElectionDataChallenge/tree/master/raw%20data) - Raw data as downloaded from the American Community Survey. Please see txt files in folder for further details.
+2. [clean data](https://github.com/KoralleB/CAElectionDataChallenge/tree/master/clean%20data) - Clean data.
+3. [code](https://github.com/KoralleB/CAElectionDataChallenge/tree/master/code) - All code files, both for visualizing and modeling.
+4. [image](https://github.com/KoralleB/CAElectionDataChallenge/tree/master/image) - Output image files.
+5. [docs](https://github.com/KoralleB/CAElectionDataChallenge/tree/master/docs) - Output web files.
 
 ## Data Visualization
 ### Current rent control law status
